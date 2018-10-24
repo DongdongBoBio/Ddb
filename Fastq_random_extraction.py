@@ -1,5 +1,4 @@
-#统计行数
-wc ERR332577.fastq ERR332578.fastq ERR332581.fastq ERR332585.fastq ERR332588.fastq ERR332593.fastq ERR470101.fastq  ERR470103.fastq ERR470105.fastq >> fastq.info
+#统计行数: (Shell) wc ERR332577.fastq ERR332578.fastq ERR332581.fastq ERR332585.fastq ERR332588.fastq ERR332593.fastq ERR470101.fastq  ERR470103.fastq ERR470105.fastq >> fastq.info
 
 ########### 思路 #######################
 # ERR332574共709400684行，也就是177350171段序列（目前最少的一个文件有167622281条序列）
